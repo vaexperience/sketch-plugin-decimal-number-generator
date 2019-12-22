@@ -4,9 +4,9 @@
 
 This plugin is made for Sketch product designers working on trading, finance and other industries dealing with specific, custom, complex numbers. Specifically, you'll be able to quickly select text layers and within a moment generate decimal, custom number values and more. You can also add preffix/suffix of currency, percentages, degree types etc.
 
-Quick demo:
-<img style="height: 350px; width: auto;" src="https://github.com/vaexperience/sketch-plugin-decimal-number-generator/blob/master/decimal-number-generator-demo.gif" alt="animated demo of the plugin" />
 
+<img style="height: 350px; width: auto;" src="https://github.com/vaexperience/sketch-plugin-decimal-number-generator/blob/master/decimal-number-generator-demo.gif" alt="animated demo of the plugin" />
+<caption>Quick demo (UI mockup - Olga Bykova via SketchAppSources)</caption>
 
 # Instructions
 
