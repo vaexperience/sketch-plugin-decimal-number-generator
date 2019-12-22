@@ -1,4 +1,4 @@
-# Sketch plugin: Decimal Number Generator
+# Sketch Plugin: Decimal Number Generator
 
 <img style="" src="https://github.com/vaexperience/sketch-plugin-decimal-number-generator/blob/master/DecimalNumber%20Generator.sketchplugin/Contents/Resources/web-ui/img/logo.png" alt="banner"/>
 
