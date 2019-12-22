@@ -15,5 +15,5 @@ or
 - Hit generate anytime to override your text fields.
 
 
-Feedback: hello@vaexperience.com
-vaexperience.com
+Feedback: 
+hello@vaexperience.com / http://vaexperience.com
