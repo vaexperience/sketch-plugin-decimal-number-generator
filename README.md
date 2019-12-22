@@ -16,15 +16,17 @@ This plugin is made for Sketch product designers working on trading, finance and
 - Download as a .zip or clone on desktop
 
 <b>Install:</b>
-- Double click the .sketch file to install the plugin
-or
-- Draf the file into /plugins folder for Sketch
+- Double click the downloaded .sketch file to install immediately, or...
+- Drag the downloaded file into your Sketch /Plugins folder
 
 <b>How to use:</b>
-- Select text layers to generate decimal and custom number values.
-- Specify example output, e.g. '0.1234'; will return 4 random decimals, first number randomised 0-9 for each of the selected text fields.
-- Adjust custom settings: number of decimals, first number: randomised range 0-9, or specific number 0-9; custom character preffix/suffix (currencies, types, degrees, percentages etc.)
-- Hit generate anytime to override your text fields.
+- Do the design magic
+- Launch the plugin from the plugin menu
+- Select all text layers to generate new decimal and custom character values
+- Optional: Specify example output, e.g. '0.1234'; will return 4 random decimals, first number randomised 0-9 for each of the selected text fields
+- Optional: Adjust custom settings: number of decimals, first number: randomised range 0-9, or specific number 0-9; custom character preffix/suffix (currencies, types, degrees, percentages etc.)
+- Hit generate to override your text fields
+- Share with a friend
 
 
 Feedback: 
