@@ -6,7 +6,7 @@ This plugin is made for Sketch product designers working on trading, finance and
 <br />
 
 
-<img style="height: 350px; width: auto;" src="https://github.com/vaexperience/sketch-plugin-decimal-number-generator/blob/master/decimal-number-generator-demo.gif" alt="animated demo of the plugin" />
+<img style="height: 300px; width: auto;" src="https://github.com/vaexperience/sketch-plugin-decimal-number-generator/blob/master/decimal-number-generator-demo.gif" alt="animated demo of the plugin" />
 <caption>Quick demo (UI mockup: <a href="https://www.sketchappsources.com/free-source/2604-trading-chart-data-sketch-freebie-resource.html" target="_blank">Olga Bykova</a>)</caption>
 <br />
 
