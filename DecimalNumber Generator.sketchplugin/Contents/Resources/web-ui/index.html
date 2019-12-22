@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<link rel="stylesheet" href="style.css"></link>
+		<script src="script.js"></script>
+	</head>
+
+	<body>
+		<div class="logo"><img class="logoImg" src="img/logo.png" alt=""/></div>
+
+		<div class="steps">
+
+			<div class="step">
+				<div class="header">
+					<div class="title">1. Select text layers</div>
+				</div>
+			</div>
+			
+			<div class="step0">
+				<div class="header">
+					<div class="title">2. Adjust values</div>
+				</div>
+				
+				<p>Example output:</p>
+				<form class="options" id="starting-options">
+					<div class="option">
+						<input type="text" class="valueAddon invisible" id="preffix" name="preffix" value=""></input>
+						<input type="number" class="value" id="templateNumber" name="templateNumber" value="0.1234" onChange="checkVal(this.value)"></input>
+						<input type="text" class="valueAddon invisible" id="suffix" name="suffix" value=""></input>
+					</div>
+				</form>
+			</div>
+			<div class="entryWrapper">
+			<div class="advancedSettings">
+			<div class="step">
+				<div class="header">
+					<div class="title">Customise outputs:</div>
+				</div>
+				
+				<form class="options" id="starting-options">
+					<div class="option">
+						
+						
+						<input type="number" class="value" id="decimals" name="decimals" value="4" onChange="checkDec(this.value)"></input>
+						<div class="label">Decimals</div>
+					</div>
+					<div class="option">
+						
+						<select name="type" id="firstNumber" onChange="fixFirst(this.value)">
+							<option value="">Random: 0-9</option>
+							<option value="0" class="fixer">0</option>
+							<option value="1" class="fixer">1</option>
+							<option value="2" class="fixer">2</option>
+							<option value="3" class="fixer">3</option>
+							<option value="4" class="fixer">4</option>
+							<option value="5" class="fixer">5</option>
+							<option value="6" class="fixer">6</option>
+							<option value="7" class="fixer">7</option>
+							<option value="8" class="fixer">8</option>
+							<option value="9" class="fixer">9</option>
+						  </select>
+						<div class="label" id="fixedFirst">First number</div>
+					</div>
+					<div class="option" style="display:none;">
+						<div class="label" id="setRange">Set range (first number)
+						</div>
+						<input type="number" class="value" name="min" id="minimum" value="0"></input> - 
+						<input type="number" class="value" name="max" id="maximum" value="9"></input>
+					</div>
+					<div class="option">
+						<select name="type" id="presuffix" onChange="addType(this.value)">
+							<option value="">None</option>
+							<option value="%" class="suf">%</option>
+							<option value="$" class="pre">$</option>
+							<option value="£" class="pre">£</option>
+							<option value="€" class="pre">€</option>
+							<option value="₨" class="pre">₨</option>
+							<option value="₹" class="pre">₹</option>
+							<option value="₿" class="pre">₿</option>
+							<option value="℃" class="suf">℃</option>
+							<option value="℉" class="suf">℉</option>
+							<option value="°" class="suf">°</option>
+							<option value="USD" class="suf">USD</option>
+							<option value="GBP" class="suf">GBP</option>
+							<option value="BTC" class="suf">BTC</option>
+						  </select>
+						  <div class="label">Type preffix/suffix</div>
+					</div>
+				</form>
+			</div>
+			</div>
+			<button id="duuuplicate-btn" onClick="apply()">Generate</button>
+		</div>
+		
+		</div>
+
+		
+
+<!-- <p class="credit"><span style="font-size:13px;">🚀</span><br />vaexperience.com</p> -->
+
+	</body>
+</html>

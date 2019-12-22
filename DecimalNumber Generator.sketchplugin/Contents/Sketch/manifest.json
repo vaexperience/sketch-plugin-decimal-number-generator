@@ -1,0 +1,30 @@
+{
+	"name": "Decimal number generator",
+	"description": "This plugin helps designers working with trading, finance and other big data driven interfaces generate decimals, fractions and custom numbers (currency, percentages etc.)",
+	"icon": "icon.png",
+	"author": "VAEXPERIENCE - Vy Alechnavicius",
+	"authorEmail": "hello@vaexperience.com",
+	
+	"identifier": "com.vaexperience.decimalsplugin",
+	"version": "1.0",
+
+	"disableCocoaScriptPreprocessor": true,
+
+	"commands": [
+		{
+			"script": "index.js",
+			"name": "Decimal number generator",
+			"handlers": {
+				"run": "onRun"
+			},
+			"identifier": "open"
+	 	}
+	],
+
+	"menu": {
+		"items": [
+			"open"
+		],
+		"isRoot": true
+	}
+}
