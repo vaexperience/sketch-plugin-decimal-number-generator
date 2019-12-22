@@ -1,5 +1,7 @@
 # sketch-plugin-decimal-number-generator
 
+This plugin helps Sketch product designers working on trading, finance and other big data projects generate decimals, custom numbers (currency, percentages etc.) en masse. 
+
 <b>Download:</b>
 - Download as a .zip or clone on desktop
 
