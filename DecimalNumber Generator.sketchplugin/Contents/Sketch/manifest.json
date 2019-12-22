@@ -4,7 +4,7 @@
 	"icon": "icon.png",
 	"author": "VAEXPERIENCE - Vy Alechnavicius",
 	"authorEmail": "hello@vaexperience.com",
-	"appcast": "https://github.com/vaexperience/sketch-plugin-decimal-number-generator/blob/master/appcast.xml"
+	"appcast": "https://github.com/vaexperience/sketch-plugin-decimal-number-generator/blob/master/appcast.xml",
 	"identifier": "com.vaexperience.decimalsplugin",
 	"version": "1.0",
 
