@@ -27,7 +27,16 @@ This plugin is made for Sketch product designers working on trading, finance and
 - Optional: Adjust custom settings: number of decimals, first number: randomised range 0-9, or specific number 0-9; custom character preffix/suffix (currencies, types, degrees, percentages etc.)
 - Hit generate to override your text fields
 - Share with a friend
+<br />
+
+# What's new:
+
+<b>v1.0: Initial release</b>
 
 
-Feedback: 
+<br />
+# Hello's, feedback, requests etc: 
 hello@vaexperience.com / http://vaexperience.com
+
+
+
