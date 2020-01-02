@@ -34,7 +34,6 @@ This plugin is made for Sketch product designers working on trading, finance and
 <b>v1.0: Initial release</b>
 
 
-<br />
 # Hello's, feedback, requests etc: 
 hello@vaexperience.com / http://vaexperience.com
 
